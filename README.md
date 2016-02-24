@@ -1,1 +1,3 @@
 # ShadowsocksForIphone
+
+`ctrl+\``
